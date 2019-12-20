@@ -1,1 +1,1 @@
-<?php include_oce("Registrationform.html");?>
+<?php include_once("Registrationform.html");?>
